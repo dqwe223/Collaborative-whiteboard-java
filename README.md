@@ -1,5 +1,6 @@
 # Collaborative-whiteboard-java
 
+
 Welcome to Collaborative Whiteboard, a Java-based project designed to facilitate real-time collaboration on a shared digital whiteboard. This project demonstrates my skills in Java programming and networking, providing a platform where multiple users can draw, write, and interact simultaneously.
 
 How It Works
